@@ -1,10 +1,8 @@
-## Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyt0315)](https://solved.ac/kyt0315/)
+**Hello👋 I'm Front-end developer, YoungCheon Kim**
 
-<!---
-kych0912/kych0912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kych0912&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kych0912&theme=radical&layout=compact&hide=python)
+## Introduce
+- 💻 I always think about writing readable code.
+- ⚙️ I mainly use TypeScript. I avoid using the any type.
+- 🔎 I always consider UX that is comfortable and intuitive from the user's perspective.
+- 🛠️ Recently, I've been very interested in problem-solving using LLMs.
+- ♥️ My dream is to create services that people are willing to pay for
