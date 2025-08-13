@@ -7,6 +7,9 @@
 - 🛠️ Recently, I've been very interested in problem-solving using LLMs.
 - ♥️ My dream is to create services that people are willing to pay for
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kych0912)](https://github.com/kych0912/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyt0315)](https://solved.ac/kyt0315)
+
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyt031522@gmail.com)](mailto:kyt031522@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1dLNwt0DCHUAm7ZLT7yvRZcVdJ4oy-BaX/view)
